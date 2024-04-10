@@ -9,8 +9,8 @@
 </p>
 
 ## About
-On this page you can find my implementations of basic **data structures** and **sorting algorithms** with comments
-Currently repository contains
+On this page you can find my implementations of basic **data structures** and **sorting algorithms** with comments<br><br>
+#### Currently repository contains 	⬇️⬇️⬇️
 ### Data Structures
 
 * Stack<br>
