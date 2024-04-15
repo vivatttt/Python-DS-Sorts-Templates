@@ -20,6 +20,7 @@ On this page you can find my implementations of basic **data structures** and **
 * Hash Set<br>
 * Hash Table<br>
 * LRU cache<br>
+* Randomized Set <br>
 
 ### Sorts
 
